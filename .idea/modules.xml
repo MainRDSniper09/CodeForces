@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/4A_Watermelon/4A_Watermelon.iml" filepath="$PROJECT_DIR$/4A_Watermelon/4A_Watermelon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeForces.iml" filepath="$PROJECT_DIR$/.idea/CodeForces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Watermelon/Watermelon.iml" filepath="$PROJECT_DIR$/Watermelon/Watermelon.iml" />
     </modules>
   </component>
 </project>
